@@ -19,5 +19,40 @@ img {
 }
 
 .ms_avatar-hero {
-    width: 50%;
+    width: 40%;
+}
+
+.ms_about {
+    background-color: #1abc9c;
+    color: white;
+}
+
+.ms_btn-download {
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+.form {
+    height: 500px;
+    background-color: brown;
+}
+
+.ms_icons { 
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 50%;
+    aspect-ratio: 1;
+    color: white;
+}
+
+footer {
+    background-color:  #3a546d;
+    color: white;
+}
+
+footer .container-fluid {
+    background-color: #2c3e50;
 }
