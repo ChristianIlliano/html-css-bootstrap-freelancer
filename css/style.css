@@ -1,9 +1,16 @@
 .ms_header {
     background-color: #2c3e50;
+    color: white;
 }
 
 .ms_header-nav {
     list-style-type: none;
+}
+
+.ms_nav-link {
+    color: white;
+    text-decoration: none;
+    border: 0;
 }
 
 .ms_header-nav li {
@@ -55,4 +62,25 @@ footer {
 
 footer .container-fluid {
     background-color: #2c3e50;
+}
+
+.ms_btn-primary {
+    background-color: #1abc9c;
+    color: white;
+}
+
+.ms_form-control {
+    width: 100%;
+    border-radius: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.ms_form-control-message {
+    width: 100%;
+    border-radius: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
 }
